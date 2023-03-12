@@ -1,1 +1,1 @@
-arch -x86_64 pod install
+This GitHub account contains all the code for my udemy courses.
